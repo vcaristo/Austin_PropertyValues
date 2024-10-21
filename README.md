@@ -6,6 +6,6 @@ property values in Austin, TX. This includes:
   - Exploratory Data Analysis and PCA
   - Prediction model development and optimization (neural network, linear regression, decision trees)
 
-Here is an interactive web-map that shows the how tree cover is related to median single-family home prices in Austin: https://vcaristo.github.io/Austin_PropertyValues/side_by_side_maps.html
+Here is an <a href="https://vcaristo.github.io/Austin_PropertyValues/side_by_side_maps.html">interactive web-map</a> that shows the how tree cover is related to median single-family home prices in Austin:
 
 <a href="https://vcaristo.github.io/Austin_PropertyValues/side_by_side_maps.html"><img src=https://github.com/user-attachments/assets/9e982fb0-699c-4d08-bbd4-9a820fe8b7b0></a>
